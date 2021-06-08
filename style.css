@@ -45,5 +45,23 @@ p{
 .Bleh{
     position:absolute;
     z-index:10;
-    
+    top:0;
+    right:30;
+    list-style:none;
+    cursor:pointer;
+}
+.REE{
+    color:#fff;
+    padding:9px;
+    display:inline;
+    float:left;
+    font-size:25;
+    font-family:fantasy;
+}
+.REE:hover{
+    background-color:deepskyblue;
+}
+#name{
+    font-family: 'Cinzel', serif;
+    font-size:40px;
 }
